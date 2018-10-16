@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="anExternal.css">
+</head>
+<body>
+
+	<style>
+		body {
+    			background-color: pink;
+			}
+</style>
+
+		<title>Judy's Website</title>
+	</head>
+	<style>
+p.a {
+    font: 25px arial, sans-serif;
+}
+
+p.b {
+    font: italic bold 12px/30px Georgia, serif;
+}
+</style>
+</head>
+<body>
+
+<h1>Jiatian(Judy) Xie</h1>
+</body>
+</html>
+	<body>
+		
+		<h2>About Me</h2>
+		<p class="a">I am from Hangzhou, China</p>
+		<p class="b">I love ice cream</p>
+		<h2>My Favorite Websites</h2>
+		<ul>
+			<li>
+				<a href="https://www.youtube.com/">Youtube</a>
+		    </li>
+		    <li>
+				<a href="https://www.washington.edu/">UW</a>
+		    </li>
+		    <li>
+				<a href="https://www.instagram.com/">Instagram</a>
+		    </li>
+		    <li>
+				<a href="https://www.facebook.com/">Facebook</a>
+		    </li>
+		    <li>
+				<a href="https://www.amazon.com/">Amazon</a>
+		    </li>
+
+	</head>
+	<body>
+
+	<div class="container">
+	<a href="https://twitter.com/uwbiochemistry/">
+			<img src="https://pbs.twimg.com/profile_images/2600534766/vqhkejr1r5oe0akzf0dn_400x400.png" title="UW" style="width:50px;height:50px;margin:5px">
+			<style>
+				img {
+    				float: right;
+					}
+			</style>
+		</a>
+			
+	
+	</div>
+
+</body>
+</html> 
+		
+		
+		
+		<a href="https://twitter.com/siberiian/">	
+			<img src="https://pbs.twimg.com/profile_images/925702999095119872/F2ppKp1x_400x400.jpg" title="Husky" style="width:50px;height:50px;margin:5px">
+		</a>
+	</body>
+</html>
+
