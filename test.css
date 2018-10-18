@@ -30,6 +30,11 @@
 		margin-right: auto;
 		margin-bottom: 10px;
 		border:solid 8px black;
+		background-color: lightgrey;
+    	width: 300px;
+    	border: 25px solid green;
+    	padding: 25px;
+   		margin: 25px;
 	}
 	
 	#Header h1{
@@ -37,6 +42,11 @@
 		font-family: "Passion One";
 		color: #FFBC00;
 		font-weight: bold; 	
+		border: 2px solid black;
+    	outline: #4CAF50 solid 10px;
+    	margin: auto;    
+    	padding: 20px;
+    	text-align: center;
 		
 	
 	}
@@ -62,6 +72,7 @@
 	#LeftNav ul{
 		list-style-type: none;
 		padding-left: 0px;
+		list-style-type: circle;
 	
 	}
 	
@@ -79,6 +90,8 @@
 		border:solid 8px black;
 		list-style-type: none;
 		padding: 15px;
+		overflow: scroll;
+   		border: 1px solid #ccc;
 	}
 	
 	#Footer{
