@@ -1,0 +1,80 @@
+	body{
+		background-image: url('leaves.png');
+	
+	}
+
+	label{
+		color: green;
+		font-family: "Mali";
+	
+	}
+
+	h2{
+		color: #1C1A59;
+		font-size: 40px;
+		font-family: "Passion One";
+		margin-bottom: 0px;
+
+	}
+
+	li{
+
+	}
+
+	#Header{
+		
+		width: 500px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 10px;
+		border:solid 8px green;
+		background-color: #F4FD41;
+    	
+	}
+	
+	#Header legend{
+		font-size: 30px;
+		font-family: "Mali"
+	
+	}
+	#Pi{
+		background-color: #F4FD41;
+		text-align:center;
+	    float: left;
+		width: 400px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 10px;
+		border:solid 8px green;
+		outline-style: dotted;
+	}
+	#Pi legend{
+		font-size: 30px;
+		font-family: "Mali"
+	
+	}
+	
+	#Av{
+		background-color: #F4FD41;
+		text-align:center;
+		border:solid 8px green;
+	
+	}
+	#Av legend{
+		font-size: 30px;
+		font-family: "Mali"
+	
+	}
+	
+	#Ps{
+		background-color: #F4FD41;
+		text-align:center;
+		border:solid 8px green;
+	}
+	
+	#Ps legend{
+		font-size: 30px;
+		font-family: "Mali"
+	}
+	
+	
